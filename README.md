@@ -1,2 +1,0 @@
-# DoomManager
-测试
